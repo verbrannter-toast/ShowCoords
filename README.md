@@ -1,3 +1,7 @@
+## ShowCoords - Mod for Minecraft Java Edition 21.1 Neoforge
+
+This is a really simple Mod to show your current coordinates and the biome you are in in the top left of your screen. Really subtle, really simple
+
 
 ## Installation information
 ### Download prebuilt version
