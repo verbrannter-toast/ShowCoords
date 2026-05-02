@@ -1,0 +1,13 @@
+{
+  "itemGroup.showcoords": "Example Mod Tab",
+  "block.showcoords.example_block": "Example Block",
+  "item.showcoords.example_item": "Example Item",
+
+  "showcoords.configuration.title": "showcoords Configs",
+  "showcoords.configuration.section.showcoords.common.toml": "showcoords Configs",
+  "showcoords.configuration.section.showcoords.common.toml.title": "showcoords Configs",
+  "showcoords.configuration.items": "Item List",
+  "showcoords.configuration.logDirtBlock": "Log Dirt Block",
+  "showcoords.configuration.magicNumberIntroduction": "Magic Number Text",
+  "showcoords.configuration.magicNumber": "Magic Number"
+}
