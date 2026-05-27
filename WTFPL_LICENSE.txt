@@ -1,4 +1,4 @@
-                    Version 1, May 2026
+                    Version 1.2.1, May 2026
 
  Copyright (C) 2026 Erik Mettner <toast.tries.art@gmail.com>
 
