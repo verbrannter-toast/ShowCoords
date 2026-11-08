@@ -36,7 +36,7 @@ public class ShowCoordsClient implements ClientModInitializer {
 		int y = (int) player.getY();
 		int z = (int) player.getZ();
 
-		String coordText = String.format("XYZ: %d / %d / %d", x, y, z);
+		String coordText = String.format("%d / %d / %d", x, y, z);
 		graphics.text(mc.font, coordText, 5, 5, 0xFFFFFFFF);
 
 		graphics.text(mc.font, getBiomeName(player), 5, 15, 0xFFAAAAAA);
