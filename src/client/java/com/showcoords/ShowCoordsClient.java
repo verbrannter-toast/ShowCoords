@@ -44,7 +44,7 @@ public class ShowCoordsClient implements ClientModInitializer {
 
 	private static String getBiomeName(Player player) {
 		return player.level().getBiome(player.blockPosition()).unwrapKey()
-				.map(key -> "Biome: " + formatBiomeName(key.identifier().getPath()))
+				.map(key -> formatBiomeName(key.identifier().getPath()))
 				.orElse("Biome: Unknown");
 	}
 
