@@ -1,0 +1,26 @@
+{
+	"schemaVersion": 1,
+	"id": "showcoords",
+	"version": "${version}",
+	"name": "Show Coords",
+	"description": "Displays coordinates and biome in the top-left corner of the screen",
+	"authors": [
+		"ErikMettner"
+	],
+	"contact": {
+		"sources": "https://github.com/verbrannter-toast/ShowCoords"
+	},
+	"license": "WTFPL",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"com.showcoords.ShowCoordsClient"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}
